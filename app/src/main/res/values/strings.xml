@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Noticiais ADM</string>
+    <string name="escreva_noticia">Escreva uma Notícia</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_escreva_noticia">Escreva sua notícia</string>
+    <string name="hint_data_publicação">Data de Publicação</string>
+    <string name="hint_autor">Autor</string>
+    <string name="txt_publicar">Publicar</string>
+</resources>
